@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.taylanerel25_lang.twa",
+        "sha256_cert_fingerprints": ["57:AA:53:0F:B8:4C:3F:9B:58:F4:70:78:24:5D:17:C1:CF:11:F1:E5:8F:72:51:31:42:32:D1:2D:62:FD:AC:E0"]
+      }
+    }]
